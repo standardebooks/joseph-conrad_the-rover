@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/joseph-conrad/the-rover</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-05-27T14:07:11Z</dc:date>
+		<meta property="dcterms:modified">2026-05-27T14:07:11Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -42,16 +42,16 @@
 		<meta property="authority" refines="#subject-4">LCHS</meta>
 		<meta property="term" refines="#subject-4">sh2008108200</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">After a life of piracy, the titular rover retires to the French coast but gets caught up in historical events.</dc:description>
+		<dc:description id="description">A rover retires to the French coast after a life of piracy, but soon finds himself caught up in historical events.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Having spent his life roving faraway seas, Peyrol returns to his birthplace on the French coast to retire on a small fortune acquired through piracy. Meanwhile, the historical events of the French Revolution and France’s war with England make Peyrol reconsider his withdrawal and undertake a patriotic mission.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;The Rover&lt;/i&gt;, published in 1923, became &lt;a href="https://standardebooks.org/ebooks/joseph-conrad"&gt;Joseph Conrad’s&lt;/a&gt; last completed novel before his death in 1924. The book is (in part) a retelling of the myth of Acis and Galatea and was adapted into a film in 1967. The epigraph, taken from &lt;a href="https://standardebooks.org/ebooks/edmund-spenser/the-faerie-queene"&gt;&lt;i&gt;The Faerie Queene&lt;/i&gt;&lt;/a&gt; by &lt;a href="https://standardebooks.org/ebooks/edmund-spenser"&gt;Edmund Spenser&lt;/a&gt;, subsequently became Conrad’s epitaph.&lt;/p&gt;
+			&lt;p&gt;Having spent his life roving faraway seas, Peyrol returns to his birthplace on the French coast to retire on a small fortune acquired through piracy. Meanwhile, the historical events of the French Revolution and France’s war with England make Peyrol reconsider his withdrawal to undertake a patriotic mission.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Rover&lt;/i&gt;, published in 1923, is the last novel &lt;a href="https://standardebooks.org/ebooks/joseph-conrad"&gt;Conrad&lt;/a&gt; completed before his death in 1924. The book is in part a retelling of the myth of Acis and Galatea, and was adapted into a film in 1967. The epigraph, taken from &lt;a href="https://standardebooks.org/ebooks/edmund-spenser"&gt;Spenser’s&lt;/a&gt; &lt;a href="https://standardebooks.org/ebooks/edmund-spenser/the-faerie-queene"&gt;&lt;i&gt;The Faerie Queene&lt;/i&gt;&lt;/a&gt;, subsequently became Conrad’s epitaph.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/59142</dc:source>
 		<dc:source>https://archive.org/details/rovercon00conruoft</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">87635</meta>
+		<meta property="se:reading-ease.flesch">71.65</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Rover_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/joseph-conrad_the-rover</meta>
 		<dc:creator id="author">Joseph Conrad</dc:creator>
@@ -83,6 +83,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.robinwhittleton.com/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
