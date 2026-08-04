@@ -43,7 +43,7 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2008108200</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A rover retires to the French coast after a life of piracy, but soon finds himself caught up in historical events.</dc:abstract>
+		<meta property="schema:abstract">A rover retires to the French coast after a life of piracy, but soon finds himself caught up in historical events.</meta>
 		<dc:description>
 			&lt;p&gt;Having spent his life roving faraway seas, Peyrol returns to his birthplace on the French coast to retire on a small fortune acquired through piracy. Meanwhile, the historical events of the French Revolution and France’s war with England make Peyrol reconsider his withdrawal to undertake a patriotic mission.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Rover&lt;/i&gt;, published in 1923, is the last novel &lt;a href="https://standardebooks.org/ebooks/joseph-conrad"&gt;Conrad&lt;/a&gt; completed before his death in 1924. The book is in part a retelling of the myth of Acis and Galatea, and was adapted into a film in 1967. The epigraph, taken from &lt;a href="https://standardebooks.org/ebooks/edmund-spenser"&gt;Spenser’s&lt;/a&gt; &lt;a href="https://standardebooks.org/ebooks/edmund-spenser/the-faerie-queene"&gt;&lt;i&gt;The Faerie Queene&lt;/i&gt;&lt;/a&gt;, subsequently became Conrad’s epitaph.&lt;/p&gt;
